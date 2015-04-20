@@ -1,3 +1,8 @@
 # CurrencyApp
-Currency Convertor Cross-Platform Client using PyQt
+Currency Rate Converting App 
+#GUI
+#Cross-Platform 
+#Python
+#PyQt
+
   
